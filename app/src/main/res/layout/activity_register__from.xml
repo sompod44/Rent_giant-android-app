@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/register_background"
+    tools:context=".Register_From">
+
+    <include
+        layout="@layout/custom_bar"
+        android:id="@+id/custombarid"
+        />
+
+    <ImageView
+        android:layout_weight="2.5"
+        android:layout_width="100dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/rent_giant"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:text="@string/app_name"
+        android:textAllCaps="false"
+        android:textColor="#000000"
+        android:textSize="25sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:text="Registration Form :"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        android:textAllCaps="false"
+        android:textSize="20sp"
+        />
+
+    <EditText
+        android:id="@+id/edittextID1"
+        android:layout_weight="1.5"
+        android:layout_width="280dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint1"
+
+        />
+    <EditText
+        android:id="@+id/edittextID2"
+        android:layout_weight="1.5"
+        android:layout_width="280dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint5"
+        />
+    <EditText
+        android:id="@+id/edittextID3"
+        android:layout_weight="1.5"
+        android:layout_width="280dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint6"
+        android:inputType="textPassword"
+        />
+    <EditText
+        android:id="@+id/edittextID4"
+        android:layout_weight="1.5"
+        android:layout_width="280dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint7"
+        android:inputType="textPassword"
+        />
+    <EditText
+        android:id="@+id/edittextID5"
+        android:layout_weight="1.5"
+        android:layout_width="280dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint2"
+        />
+
+
+    <EditText
+        android:id="@+id/edittextID6"
+        android:layout_weight="1.5"
+        android:layout_width="280dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:hint="@string/hint3"
+        />
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        >
+        <CheckBox
+            android:id="@+id/checkboxID1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/teamandcondition"
+            android:textSize="20sp"
+            android:textColor="#00ed57"
+            android:textStyle="bold"
+
+            />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonID1"
+        android:onClick="Butoonandcheckbox"
+        android:layout_width="150dp"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_gravity="end"
+        android:text="submit"
+        android:background="@drawable/imagebutton_style"
+        />
+
+
+</LinearLayout>

@@ -1,0 +1,184 @@
+<resources>
+    <string name="app_name">Rent Giant</string>
+    <string name="waiting_masg">Wait until complete loading...</string>
+    <string name="title_activity_rent_giant_">Rent Giant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="Place_Name">
+
+        <item>Mohammadpur,townhall</item>
+        <item>Mirpur-1</item>
+        <item>Mohakhali</item>
+        <item>Motijil</item>
+        <item>Gulisthan,East side</item>
+        <item>Dhanmondi-27</item>
+        <item>Sonkor,Dhanmondi</item>
+        <item>Sukrabad,Dhaka</item>
+        <item>Mirpur-10</item>
+        <item>Shamoli,Dhaka</item>
+        <item>Dhanmondi-15</item>
+        <item>Lalmatiya-B_block</item>
+
+    </string-array>
+
+    <string name="boyhostel_details">Tk 2,500 /month\n
+সম্পুর্ন স্টাইলস করা ফ্লাট বাসায় অক্টোবর/নভেম্বর মাসে একজন রুমমেট আবশ্যক।\n
+সুবিধাসমুহ\n
+২৪ ঘন্টা পানি, বিদ্যুৎ, গ্যাসের ব্যবস্থা\n
+ওয়াইফাই \n
+খাবার মিল সিস্টেম\n
+৩ রুমের ফ্লাটে আমরা ৫ জন থাকি।প্রতি রুমে ২ জন করে । সবমিলিয়ে ২৫০০ টাকা খরচ পরবে\n\n</string>
+
+
+    <string name="hint1">Enter your Name</string>
+    <string name="hint2">Enter your Email</string>
+    <string name="hint3">Enter your Phone</string>
+    <string name="hint4">Enter your Gender</string>
+    <string name="hint5">Enter your Username</string>
+    <string name="hint6">Enter your Password</string>
+    <string name="hint7">Enter your Password Again</string>
+    <string name="teamandcondition">I agree with condition.</string>
+    <string name="email">shahrearislam3@gmail.com</string>
+    <string name="location">MohammadPur,Dhaka,Bangladesh</string>
+
+
+    <string name="house_details">
+
+        Tk 35000000\n\n
+        5 storage foundation. Two complete floors with three units. \n
+        Two units with 2bed 2 bath kitchen, dining drowing, storage room each on first floor.\n
+        Ground floor with 4 bed 4 bath kitchen dining drawing and storage room. All with direct gas digital electricity meters main water supply.\n
+        7/8 car parking space within the property spaces front yeard with small garden.\n
+        Very prominent central locality within the reach of everything strictly view by appointment only. \n
+        No agencys. Deal directly for further information and video viewing call please. \n
+Contact, Mr Farid, .\n\n
+    </string>
+
+    <string name="girlshostel_details">
+
+
+        গার্লস হোস্টেল
+
+বাড়ী-৩৮/এ, সড়ক-৯/এ, ধানমন্ডি, ঢাকা।
+
+মোবাইল: ০১৭৫৫-৫০৩৬০৮
+
+
+
+লোকেশন
+
+সাত মসজিদ রোডে ইবেনে সিনা হাসপাতালের গলিতে এটি অবস্থিত। ভবনের চতূর্থ তলায় ৪০০০ বর্গফুট সমপরিমান জায়গা নিয়ে হোস্টেলটি পরিচালিত হয়।
+
+
+
+সিট ভাড়া (৩ বেলা খাওয়া সুবিধা সহ)
+
+খালি থাকার ভিত্তিতে সিট ভাড়া দেওয়া হয়।
+হোষ্টেলের সিঙ্গেল সিটের ভাড়া ৬০০০ টাকা।
+হোষ্টেলের ডাবল সিটের ভাড়া ৫০০০ টাকা।
+৩ জনের জন্য রুম ভাড়া জনপ্রতি ৩২৫০ টাকা।
+৪ জনের জন্য রুম ভাড়া জনপ্রতি ৩০৫০ টাকা।
+সিট ভাড়ার পূর্বে অবশ্যই ৩০০০ টাকা সিকিউরিটি মানি হিসেবে দিতে হয়। সিট ছাড়ার পূর্বে ১০০০ টাকা ফেরত প্রদান করা হয়। অবশিষ্ট ২০০০ টাকা হোষ্টেলের ডাইনিং চার্জ এবং আসবাবপত্র ব্যবহার করার ফি হিসেবে কেটে রাখা হয়।
+মাসের প্রারম্ভে ৫ তারিখের মধ্যে সিট ভাড়া পরিশোধ করতে হয়। বিলম্বে ২০ টাকা করে জরিমান দিতে হয়।
+সিট ছাড়তে হলে কমপক্ষে ১ মাস পূর্বে হোষ্টেল সুপারকে জানাতে হবে।
+
+
+আভ্যন্তরীন নিরাপত্তা
+
+হোষ্টেল কর্তৃপক্ষ হোষ্টেলে অবস্থানরত ছাত্রীদের আভ্যন্তরীন নিরাপত্তার বিষয়টি নিশ্চিত করেন। হোষ্টেল সংক্রান্ত বা আভ্যন্তরীন যে কোন বিষয়ে, যে কোন অভিযোগ থাকলে হোষ্টেল কর্তৃপক্ষের সাথে যোগাযোগ করতে হয়।
+
+
+
+বাহ্যিক নিরাপত্তা
+
+হোষ্টেলে অবস্থানরত ছাত্রীদের বাহিরের নিরাপত্তার দায়-দায়িত্ব হোষ্টেল কর্তৃপক্ষ বহন করতে বাধ্য নন।
+
+
+
+সময়
+
+হোষ্টেল থেকে যে যার নিয়ম মতো বের হতে পারবে। রাত ৯.০০ টার মধ্যে সবাইকে হোষ্টেলে ফিরতে হবে। তবে  হোষ্টেল ফিরতে কারো দেরী হলে অবশ্যই তাকে ফোনে অথবা  আগে হোষ্টেল কর্তৃপক্ষকে জানিয়ে দিতে হবে।
+
+
+
+হোষ্টেল কর্তৃপক্ষ কর্তৃক সচেতন অভিভাবকের দায়ত্ব পালন
+
+হোষ্টেল কর্তৃপক্ষ হোষ্টেলে অবস্থানরত ছাত্রী বা কর্মজীবি মহিলাদের সচেতন অভিভাবক হিসেবে দায়িত্ব পালন করছেন।
+
+
+
+আত্মীয় / দেশের বাড়ী বেড়াতে যাওয়া
+
+দেশের বাড়ী বা কোন আত্মীয় এর বাসায় কয়েক দিনের জন্য বেড়াতে যাওয়ার প্রয়োজনে হোষ্টেল কর্তৃপক্ষকে জানাতে হবে।
+
+
+
+টাকা পয়সা / গয়না রাখা
+
+এখানে টাকা-পয়সা, গয়না রাখার কোন ব্যবস্থা নেই।
+নিজ দায়িত্বে এসকল দামী জিনিষ রাখতে পারবে এবং মোবাইল ব্যবহার করতে পারবে।
+
+
+টেলিভিশন
+
+হোষ্টেল কর্তৃপক্ষের রুমে টেলিভিশন দেখার ব্যবস্থা রয়েছে।
+
+
+
+কম্পিউটার
+
+হোষ্টেলের কম্পিউটার সুবিধা নেই। তবে কারো যদি কম্পিউটার থাকে, সেক্ষেত্রে কম্পিউটার ব্যবহার করতে পারবে। সেক্ষেত্রে ১০০ টাকা হারে মাসিক দিতে হবে। ইন্টারনেট ব্যবহার করতে পারবে।
+
+
+
+যার সাথে যোগাযোগ করতে হবে
+
+নাদিয়া, হোষ্টেল কর্তৃপক্ষ
+
+০১৭৫৫৫০৩৬০৮
+    </string>
+
+    <string name="bikedetails">
+        Bike type:Motorbikes \n
+Brand:TVS \n
+Model:Apache RTR\n
+Trim / Edition:white 2016\n
+Model year:2016\n
+Condition:Used\n
+Engine capacity:150 cc\n
+Kilometers run:17,000 km\n\n\n
+
+        ( দয়া করে ফোনে দামদামি করবেন না )\n
+        আমদের পুরাতন বাইকের শো– রুম\n
+
+ঢাকা মেট্রো ল ২৭ সিরিয়াল\n
+
+1liter oil ৩৫/৪০ km run\n
+
+ডিজিটাল নাম্বার প্লেট\n
+
+মিরপুর বি আর টি এ\n
+
+১০ বছরের ট্যাক্স টোকেন\n
+
+বাইক এ কনো প্রকার কাজ নাই\n
+
+বি:দ্র: বিস্তারিত জানতে কল করুন। ফোনে দামাদামি করবেন না।\n
+
+বাইক টি দেখতে আমাদের শুরুম এ আসুন\n
+
+                   বাইক ভিলেজ\n
+
+ঠিকানা: মিরপুর ৬নাম্বার চলন্তিকার মোড়\n
+
+    </string>
+
+    <string name="feedback1">Enter Your Name</string>
+    <string name="feedback2">Enter Your FeedBack</string>
+
+</resources>

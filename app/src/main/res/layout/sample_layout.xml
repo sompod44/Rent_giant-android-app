@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="4"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="20dp"
+    android:padding="15dp"
+    android:baselineAligned="false">
+
+
+        <ImageView
+            android:id="@+id/imageviewid"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/rent_giant"
+            android:contentDescription="@null"/>
+        <LinearLayout
+            android:weightSum="2"
+            android:layout_weight="3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textviewid1"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:text="Dhanmondi,dhaka"
+                android:gravity="center_horizontal"
+                android:textColor="#7e117e"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:layout_marginTop="5dp"
+                />
+            <TextView
+                android:id="@+id/textviewid2"
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:text="Click for more details"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textColor="#235e08"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
